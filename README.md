@@ -25,7 +25,7 @@ For this to work however, there must exist an `area_effect_cloud` with the tag `
 
 ## Currently Supported Geometries
 
--  **Axis-Aligned Bounding Box**
+### **Axis-Aligned Bounding Box**
 
 
 The following inputs should be stored in the `rayData` scoreboard to use this.
